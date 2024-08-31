@@ -1,6 +1,11 @@
-# NTM-Education
-Software da NTM voltado à educação. Trata-se de uma suíte de jogos digitais para diversos anos e disciplinas da educação básica, desenvolvida originalmente pelo Núcleo Tecnológico de Municipal, em Santarém, Pará.
-Atualmente é usado em diversas escolas e laboratórios de informática, com o objetivo de fazer o aprendizado cada vez mais dinâmico e significativo para as crianças e adolescentes.
-Esse repositório visa conectar a plataforma do NTM a um servidor externo para que possa ser acessado por qualquer pessoa na nuvem.
-Os jogos incluidos no conteúdo da plataforma do NTM usam Flash Player, pelo que será necessário um emulador de Flash para executá-los, Ruffle é um deles e está muito recomendado.
-Atualmente funciona em um servidor externo hospedado no Replit. Visite a plataforma do NTM em https://ntm-education.sg-rz.repl.co/
+# NTM Education - Plataforma de Jogos Educativos
+
+Este repositório contém o software da NTM voltado à educação, uma suíte de jogos digitais desenvolvida pelo Núcleo Tecnológico Municipal de Santarém, Pará, destinada a diversos anos e disciplinas da educação básica. A plataforma é amplamente utilizada em escolas e laboratórios de informática, proporcionando um aprendizado dinâmico e significativo para crianças e adolescentes.
+
+## Objetivo do Repositório
+
+O objetivo deste repositório é conectar a plataforma do NTM a um servidor externo, permitindo o acesso aos jogos educativos na nuvem por qualquer pessoa. A plataforma inclui jogos desenvolvidos em Flash Player, sendo necessário o uso de um emulador de Flash, como o Ruffle, para executá-los.
+
+## Estado Atual
+
+Este projeto está em fase de desenvolvimento e aprimoramento. Atualmente, a plataforma está funcionando em um servidor externo hospedado no Replit.
